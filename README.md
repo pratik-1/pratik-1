@@ -1,9 +1,7 @@
-### Hi there 👋
-
-
 <div align="center">
-  
-I am Pratik. I am a Data Scientist 💻
+Hi there 👋
+
+<b>I am Pratik. I am a Data Scientist</b> 💻
 
 <b><i>Connect me on</i></b>
 
