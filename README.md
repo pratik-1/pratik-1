@@ -23,7 +23,7 @@ Hi there 👋
 - 👨🏽‍💻 I’m currently working on **Data Engineering, Predictive Analytics and Visualisation**
 - 🌱 I’m currently learning **ML Engineering, MLOps**
 - 👯 I’m looking to collaborate on **Django, Data Science, ML Projects**
-- 🤔 I’m looking for help in **ML Engineering, MLOps**
+- 🤔 I’m looking for help in **ML Engineering, Data Science, Data Engineering**
 - 💬 Ask me about anything, I would be happy to help
 - 😄 Pronouns: Data Scientist | Python Developer
 
