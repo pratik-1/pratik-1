@@ -1,7 +1,7 @@
 <div align="center">
 Hi there 👋
 
-<b>I am Pratik. I am a Data Scientist</b> 💻
+<b>My name is Pratik. I am a Data Scientist</b> 💻
 
 <b><i>Connect me on</i></b>
 
