@@ -25,7 +25,7 @@ Hi there 👋
 - 👯 I’m looking to collaborate on **Django, Data Science, ML Projects**
 - 🤔 I’m looking for help in **ML Engineering, Data Science, Data Engineering**
 - 💬 Ask me about anything, I would be happy to help
-- 😄 Pronouns: Data Scientist | Python Developer
+- 😄 Pronouns: Data Scientist | Engineer | Python Developer
 
 <br>
 <br>
