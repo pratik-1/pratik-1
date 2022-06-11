@@ -18,10 +18,10 @@ Hi there 👋
 <hr />
 </div>
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />  
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />  
 
 
-### 👨‍💻 About Me ⇨
+### About Me 👨‍💻⇨ 
 
 - 👨🏽‍💻 I’m currently working on **Data Engineering, Predictive Analytics and Visualisation**
 - 🌱 I’m currently learning **ML Engineering, MLOps**
