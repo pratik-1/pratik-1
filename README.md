@@ -9,12 +9,10 @@ Hi there 👋
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/Tableau-%20-white" />][Tableau]
- 
 [twitter]: https://twitter.com/pratiknandekar
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/pratik-nandekar-1b3b9a31/
 [Tableau]: https://public.tableau.com/app/profile/pratik.nandekar
-
 <hr />
 </div>
 
