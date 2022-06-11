@@ -18,7 +18,7 @@ Hi there 👋
 <hr />
 </div>
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />  
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />  
 
 
 ### 👨‍💻 About Me ⇨
