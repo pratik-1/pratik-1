@@ -8,12 +8,12 @@ Hi there 👋
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://user-images.githubusercontent.com/18670428/67619998-1227e580-f7fa-11e9-87de-99aef8ab17c5.png" /> alt="https://www.linkedin.com/in/pratik-nandekar-1b3b9a31/"][Tableau] 
-![Tableau Public](https://public.tableau.com/app/profile/pratik.nandekar)
+[<img height="30" src="https://img.shields.io/badge/Tableau-%20-white" />][Tableau]
  
 [twitter]: https://twitter.com/pratiknandekar
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/pratik-nandekar-1b3b9a31/
+[Tableau]: https://public.tableau.com/app/profile/pratik.nandekar
 
 <hr />
 </div>
