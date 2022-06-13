@@ -1,7 +1,7 @@
 <div align="center">
 Hi there 👋
 
-<b>My name is Pratik. I am a Data Analyst | Scientist</b> 💻
+<b>My name is Pratik. I am a Python Developer | Data Analyst/Engineer</b> 💻
 
 <b><i>Public Profiles</i></b>
 
