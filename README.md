@@ -22,13 +22,15 @@ Hi there 👋
 
 ### About Me 👨‍💻⇨ 
 
-- 👨🏽‍💻 I’m currently working on **Data Engineering, Predictive Analytics and Visualisation**
+- 👨🏽‍💻 I’m currently working as a **Python Software & Data Engineer**
 - 🌱 I’m currently learning **ML Engineering, MLOps**
-- 👯 I’m looking to collaborate on **Django, Data Science, ML Projects**
-- 🤔 I’m looking for help in **ML Engineering, Data Science, Data Engineering**
+- 👯 I’m looking to collaborate on **Django, Data Science, ML Projects Predictive Analytics and Visualisation**
+- 🤔 I’m looking for help in **ML Engineering, Deep Learning and DevOps Engineering**
 - 💬 Ask me about anything, I would be happy to help
-- 😄 Pronouns: Data Analyst | Scientist | Engineer | Python Developer
+- 😄 Pronouns: Software Engineer | Developer | Consultant | Analyst
 
 <br>
 <br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=pratik-1" alt="Visitors Counter">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=pratik-1&label=ViewCount&color=1&icon=5&pretty=true" />
+</a>
